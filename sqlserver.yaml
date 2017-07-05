@@ -1,4 +1,5 @@
-serverip: 192.168.0.6
-dbname: nielsen
-username: thg_user
+host: 192.168.0.6
+db: nielsen
+user: thg_user
 password: Thg@1234
+table: data
